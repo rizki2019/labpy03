@@ -1,5 +1,6 @@
-# Penjelasan Program
-Penjelasan latihan1
+# <p align="center">.::Penjelasan Program::. </p>
+
+<strong>Penjelasan latihan1</strong>
 1. Anda akan diminta memasukan nilai input untuk N, banyak nya data yang akan di tampilkan berdasarkan input yang anda masukan. 
 Anda bisa memasukan nilai input N berapa saja.
 2. Akan muncul nilai 1 s/d N, yan merupakan perulangan penambahan dari 0+1.
@@ -12,7 +13,7 @@ Screenshot latihan1
 
 ![](Screenshot/latihan1.png)
 
-Penjelasan latihan2
+<strong>Penjelasan latihan2</strong>
 1. Masukkan input bilangan
 2. Program akan terus mengulang untuk meminta anda memasukkan bilangan, hinggan program berhenti ketika anda memasukan angka 0 (nol).
 3. Program akan mencari bilangan terbesar dari beberapa bilangan yang anda inputkan.
@@ -23,7 +24,7 @@ Screenshot latihan2
 
 ![](Screenshot/latihan2.png)
 
-Penjelasan program1 
+<strong>Penjelasan program1</strong>
 
 1. Modal awal pengusaha sebesar 100000000
 2. Untuk menghitung laba perbulan maka diinputkan besarnya presentase keuntungan perbulan, yakni:
