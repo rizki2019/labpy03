@@ -28,10 +28,10 @@ Screenshot latihan2
 
 1. Modal awal pengusaha sebesar 100000000
 2. Untuk menghitung laba perbulan maka diinputkan besarnya presentase keuntungan perbulan, yakni:
-- Bulan pertama 0% (belum mendapat laba)
-- Bulan ketiga 1%
-- Bulan kelima 5%
-- Bulan kelima 3%
+  * Bulan pertama 0% (belum mendapat laba)
+  * Bulan ketiga 1%
+  * Bulan kelima 5%
+  * Bulan kelima 3%
 3. Selanjutnya, hasil laba dari bulan perbulan akan ditampilkan. 
 4. Program akan jumlahkan semua keuntungan yang didapat.
 5. Maka akan ditampilkan total laba yang didapat.
